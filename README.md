@@ -43,3 +43,4 @@ python test.py directory_to_data
 
 ## Inspirations
  * [A Warm Restart Strategy for Solving Sudoku by Sparse Optimization Methods](https://arxiv.org/pdf/1507.05995.pdf)
+ * [](https://arxiv.org/pdf/1507.05995.pdf)
